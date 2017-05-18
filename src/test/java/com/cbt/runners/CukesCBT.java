@@ -18,5 +18,3 @@ public class CukesCBT {
 
 	
 }
-
-//Bu yorum silinecek. Bunu sadece git dosyada degisikli oldugunu gorsun diye koydum.
